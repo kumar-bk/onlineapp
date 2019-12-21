@@ -1,1 +1,1 @@
-my firs programm
+my first program 
