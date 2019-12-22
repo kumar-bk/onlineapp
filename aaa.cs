@@ -1,1 +1,1 @@
-my first samle sprogram cshar
+my first samle sprogram cshar C#s
